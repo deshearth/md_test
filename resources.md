@@ -17,3 +17,5 @@ generate caffe.pb.h: https://github.com/BVLC/caffe/issues/1761
 
 
 face_seg linker problem: add -lglog flag in the link.txt file in cmakefiles_dir
+
+$a^2$
